@@ -1,0 +1,24 @@
+{
+  "name": "generateur-projet",
+  "version": "1.0.0",
+  "description": "Générateur de projets interactif avec styles et frameworks",
+  "main": "creation_projet.js",
+  "scripts": {
+    "start": "node creation_projet.js"
+  },
+  "keywords": [
+    "générateur",
+    "projet",
+    "template",
+    "scaffold",
+    "styles",
+    "frameworks"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
